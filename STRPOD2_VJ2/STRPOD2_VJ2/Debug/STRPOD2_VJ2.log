@@ -1,0 +1,31 @@
+﻿  STRPOD2_VJ2.c
+d:\users\duje\desktop\strukture podataka - jesen\strpod2_vj2\strpod2_vj2\strpod2_vj2.c(64): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\users\duje\desktop\strukture podataka - jesen\strpod2_vj2\strpod2_vj2\strpod2_vj2.c(112): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\users\duje\desktop\strukture podataka - jesen\strpod2_vj2\strpod2_vj2\strpod2_vj2.c(114): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\users\duje\desktop\strukture podataka - jesen\strpod2_vj2\strpod2_vj2\strpod2_vj2.c(116): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\users\duje\desktop\strukture podataka - jesen\strpod2_vj2\strpod2_vj2\strpod2_vj2.c(127): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\users\duje\desktop\strukture podataka - jesen\strpod2_vj2\strpod2_vj2\strpod2_vj2.c(129): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\users\duje\desktop\strukture podataka - jesen\strpod2_vj2\strpod2_vj2\strpod2_vj2.c(131): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\users\duje\desktop\strukture podataka - jesen\strpod2_vj2\strpod2_vj2\strpod2_vj2.c(157): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\users\duje\desktop\strukture podataka - jesen\strpod2_vj2\strpod2_vj2\strpod2_vj2.c(183): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\users\duje\desktop\strukture podataka - jesen\strpod2_vj2\strpod2_vj2\strpod2_vj2.c(243): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\users\duje\desktop\strukture podataka - jesen\strpod2_vj2\strpod2_vj2\strpod2_vj2.c(245): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\users\duje\desktop\strukture podataka - jesen\strpod2_vj2\strpod2_vj2\strpod2_vj2.c(269): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\users\duje\desktop\strukture podataka - jesen\strpod2_vj2\strpod2_vj2\strpod2_vj2.c(271): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\users\duje\desktop\strukture podataka - jesen\strpod2_vj2\strpod2_vj2\strpod2_vj2.c(283): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+  STRPOD2_VJ2.vcxproj -> D:\Users\duje\Desktop\Strukture podataka - jesen\STRPOD2_VJ2\Debug\STRPOD2_VJ2.exe
+  STRPOD2_VJ2.vcxproj -> D:\Users\duje\Desktop\Strukture podataka - jesen\STRPOD2_VJ2\Debug\STRPOD2_VJ2.pdb (Full PDB)
